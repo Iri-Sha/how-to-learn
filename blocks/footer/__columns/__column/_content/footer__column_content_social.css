@@ -1,0 +1,8 @@
+.footer__column_content_social {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 auto 20px;
+  flex-basis: content;
+  flex-shrink: 2;
+}

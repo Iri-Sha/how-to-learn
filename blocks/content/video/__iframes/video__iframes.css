@@ -1,0 +1,6 @@
+.video__iframes {
+  position: relative;
+  justify-content: center;
+  bottom: -50px;
+  text-align: center;
+}
